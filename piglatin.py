@@ -25,5 +25,5 @@ for i, word in enumerate(words):
         if (has_vowel == False):
             words[i] = words[i] + "ay"
 
-pig_latin = ' '.join(words)
-print("Pig Latin: ", pig_latin)
+piglatin = ' '.join(words)
+print("Pig Latin: ", piglatin)
